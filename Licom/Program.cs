@@ -8,6 +8,7 @@ namespace  LineComparison
         {
             length.LineComparison();
             endpoint.checklines();
+            greater.comparelines();
         }
 
     }
