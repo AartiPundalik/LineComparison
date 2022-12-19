@@ -1,0 +1,15 @@
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\Licom.csproj.AssemblyReference.cache
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\Licom.GeneratedMSBuildEditorConfig.editorconfig
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\Licom.AssemblyInfoInputs.cache
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\Licom.AssemblyInfo.cs
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\Licom.csproj.CoreCompileInputs.cache
+E:\program\emp\Licom\Licom\bin\Debug\net6.0\Licom.exe
+E:\program\emp\Licom\Licom\bin\Debug\net6.0\Licom.deps.json
+E:\program\emp\Licom\Licom\bin\Debug\net6.0\Licom.runtimeconfig.json
+E:\program\emp\Licom\Licom\bin\Debug\net6.0\Licom.dll
+E:\program\emp\Licom\Licom\bin\Debug\net6.0\Licom.pdb
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\Licom.dll
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\refint\Licom.dll
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\Licom.pdb
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\Licom.genruntimeconfig.cache
+E:\program\emp\Licom\Licom\obj\Debug\net6.0\ref\Licom.dll
